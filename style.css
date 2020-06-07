@@ -1,0 +1,41 @@
+/* CSS files add styling rules to your content */
+
+.title {
+  font-family: "Times New Roman", Times, serif;
+
+  text-align: center;
+  font-size: 400%;
+  background-color: #EFEFEF;
+}
+
+h1 {
+  color: #585858;
+}
+
+h3 {
+  text-align: center;
+
+  font-family: "Times New Roman", Times, serif;
+  background-color: #EFEFEF;
+}
+
+.card {
+  background-color: #EFEFEF;
+  margin: 0px;
+}
+
+.row {
+  background-color: #CAEBF2;
+  margin: 30px;
+  height: 600px;
+  max-width: 100%;
+  border-radius: 25px;
+}
+
+h6 {
+  background-color: #CAEBF2;
+}
+
+p{
+  color: #585858;
+}
